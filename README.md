@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Atinadcodes
+- 👋 Hi, I’m Atinad
 - 👀 I have strong interest in tech
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate with liked minded individuals and experts in the field.
